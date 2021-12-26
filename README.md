@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything you want actually
 - 📫 How to reach me 
 
-  inst: @basedest; vk: @basedev; mail: basedscientist@gmail.com 
+  inst/vk: @basedest; mail: basedscientist@gmail.com 
 
 <!---
 idk im based af follow me
