@@ -2,10 +2,15 @@
 - 👀 I’m interested in web development; JS/Go/C++ languages
 - 🌱 I’m currently learning MongoDB, React.js, Next.js
 - 🎓 I’m currently stu**dying** at Moscow Power Engineering Institute
-- 📫 How to reach me = {    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inst, vk: '@basedest',    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: 'basedscientist@gmail.com'    
+- 📫 How to reach me
+```json
+{
+  "vk":     "@basedest",
+  "inst":   "@basedest",    
+  "email":  "basedscientist@gmail.com"    
 }
+```
+
 <!---
 idk im based af follow me
 --->
