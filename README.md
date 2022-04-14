@@ -4,7 +4,7 @@
 - 🎓 I’m currently stu**dying** at Moscow Power Engineering Institute
 - 📫 How to reach me = {
   inst, vk: '@basedest',    
-  email: 'basedscientist@gmail.com' 
+  email: 'basedscientist@gmail.com'    
 }
 <!---
 idk im based af follow me
