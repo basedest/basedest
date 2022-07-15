@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basedest
 - 👀 I’m interested in web development; JS/Go/C++ languages
-- 🌱 I’m currently learning Websocket, React.js, Docker
+- 🌱 I’m currently learning Websocket, Golang, Docker
 <!-- - 🎓 I’m currently stu**dying** at Moscow Power Engineering Institute -->
 - 📫 How to reach me
 ```json
