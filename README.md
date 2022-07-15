@@ -7,7 +7,7 @@
 {
   "vk":     "@basedest",
   "inst":   "@basedest",    
-  "email":  "basedscientist@gmail.com"    
+  "email":  "basedest.dev@gmail.com"    
 }
 ```
 
