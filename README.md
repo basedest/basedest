@@ -5,9 +5,10 @@
 - 📫 How to reach me
 ```json
 {
+  "linkedin": "linkedin.com/in/ivan-scherbakov-3b6520245/",
   "vk":     "@basedest",
   "inst":   "@basedest",    
-  "email":  "basedest.dev@gmail.com"    
+  "email":  "basedest.dev@gmail.com"   
 }
 ```
 
