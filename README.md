@@ -6,10 +6,10 @@
 - 📫 How to reach me
 ```json
 {
-  "telegram":   "@basedest",
   "instagram":  "@basedest",
-  "linkedin": "linkedin.com/in/ivan-scherbakov-3b6520245/",
-  "email":  "basedest.dev@gmail.com"   
+  "telegram":   "@basedest",
+  "linkedin":   "linkedin.com/in/ivan-scherbakov-3b6520245/",
+  "email":      "basedest.dev@gmail.com"   
 }
 ```
 
