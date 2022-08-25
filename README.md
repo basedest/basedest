@@ -8,7 +8,7 @@
 {
   "instagram":  "@basedest",
   "telegram":   "@basedest",
-  "linkedin":   "linkedin.com/in/ivan-scherbakov-3b6520245/",
+  "linkedin":   "linkedin.com/in/basedest",
   "email":      "basedest.dev@gmail.com"   
 }
 ```
