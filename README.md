@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development; JS/Go/C++ languages
 - 🎓 I’m currently stu**dying** at Moscow Power Engineering Institute
 - 🌱 I’m currently learning Websocket, Golang, Docker
-- 💼 I'm a TypeScript developer at TrueConf
+- 💼 TypeScript developer at TrueConf
+- 🎸 Songwriter and guitar player 
 - 📫 How to reach me
 ```json
 {
