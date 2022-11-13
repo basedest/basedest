@@ -8,7 +8,7 @@
 ```json
 {
   "instagram":  "@basedest",
-  "telegram":   "@basedest",
+  "telegram":   "t.me/basedest",
   "linkedin":   "linkedin.com/in/basedest",
   "email":      "basedest.dev@gmail.com"   
 }
