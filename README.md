@@ -7,7 +7,7 @@
 - 📫 How to reach me
 ```json
 {
-  "instagram":  "@basedest",
+  "instagram":  "instagram.com/basedest",
   "telegram":   "t.me/basedest",
   "linkedin":   "linkedin.com/in/basedest",
   "email":      "basedest.dev@gmail.com"   
