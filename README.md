@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basedest
 - 👀 I’m interested in web development; JS/Go/C++ languages
-- 🌱 I’m currently learning GraphQL, gRPC, WebRTC
+- 🌱 I’m currently learning GraphQL, Redux, WebRTC
 - 🎓 Computer engineering student at Moscow Power Engineering Institute
 - 💼 TypeScript developer at TrueConf
 - 🎸 Songwriter and guitar player 
