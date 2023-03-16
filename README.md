@@ -4,12 +4,13 @@
 - 🎓 Computer engineering student at Moscow Power Engineering Institute
 - 💼 TypeScript developer at TrueConf
 - 🎸 Songwriter and guitar player 
-- 📫 How to reach me
+- 🔗 Some of my links:
 ```json
 {
   "telegram":   "t.me/basedest",
   "linkedin":   "linkedin.com/in/basedest",
   "email":      "basedest.dev@gmail.com",
+  "soundcloud": "soundcloud.com/basedest",
   "instagram":  "instagram.com/basedest"
 }
 ```
