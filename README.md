@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development; JS/Go/Rust languages
 - 🌱 I’m currently learning GraphQL, tRPC
 - 🎓 Computer engineering student at Moscow Power Engineering Institute
-- 💼 Frontend developer at VK Cloud
+- 💼 Frontend developer at VK tech
 - 🎸 Songwriter and guitar player 
 - 🔗 Some of my links:
 ```json
