@@ -11,7 +11,7 @@
   "linkedin":   "linkedin.com/in/basedest",
   "email":      "basedest.dev@gmail.com",
   "soundcloud": "soundcloud.com/basedest",
-  "instagram":  "instagram.com/basedest"
+  "instagram":  "instagram.com/based.js"
 }
 ```
 
