@@ -1,1 +1,1 @@
-# web-tec enthusiast
+web-tech enthusiast
