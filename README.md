@@ -2,6 +2,6 @@
 
 Professional software engineer.
 
-I build a lot of things mostly in TypeScript.
+I build all sorts of things, mostly with TypeScript. Sometimes with Go.
 
-Sometimes I find some time to work on my pet projects.
+Occasionally, I find time to tinker with side projects and explore new ideas.
